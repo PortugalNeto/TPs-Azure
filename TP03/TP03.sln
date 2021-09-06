@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amigos.API", "Amigos.API\Amigos.API.csproj", "{451164C0-1AFC-40DD-BF84-5B8BDE82859F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{68FED102-3BB8-4B94-8613-3D3962590228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451164C0-1AFC-40DD-BF84-5B8BDE82859F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451164C0-1AFC-40DD-BF84-5B8BDE82859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451164C0-1AFC-40DD-BF84-5B8BDE82859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451164C0-1AFC-40DD-BF84-5B8BDE82859F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FED102-3BB8-4B94-8613-3D3962590228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FED102-3BB8-4B94-8613-3D3962590228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FED102-3BB8-4B94-8613-3D3962590228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FED102-3BB8-4B94-8613-3D3962590228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C8A3C2-6FA9-41FD-9913-0248A2ACB9D5}
+	EndGlobalSection
+EndGlobal
