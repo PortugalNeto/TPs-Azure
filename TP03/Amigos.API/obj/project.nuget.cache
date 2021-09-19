@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9Y9Q2geDn0X8rxXn2CcsdOUVhj9rTQtfx4v0JW+75R9/eAAApmVpiWrVrssz2iDwSw39HURRxzvr6JB1C1sBg==",
+  "dgSpecHash": "t6uzTVBqZQ/MUgBN9ewzlUTJXL+W9XpqJWN6jyZW5HCigAmHEYP6UpOooghC4VqgynVyTUWtOMtKlurRF1f+mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pn_pg\\source\\repos\\TP03\\Amigos.API\\Amigos.API.csproj",
+  "projectFilePath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\TP03\\Amigos.API\\Amigos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pn_pg\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\pn_pg\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3KppTAqz1a9tU6hFHUBoMT7kVfS+IR0z9zrUH22o5oAWhCHaqzRLn1KBjH+mY0BA86DMaMWxIYnGTOvrKspyTA==",
+  "dgSpecHash": "3sAo1kNseTzUIbbFyXCDY8nSqfcQq51KE7sPn5BN6KJvSxCgyKI4Z5TQs4O2JqkN11Cg1dR1aL+BloWSmkNAwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pn_pg\\source\\repos\\TP03\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\TP03\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pn_pg\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\pn_pg\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",

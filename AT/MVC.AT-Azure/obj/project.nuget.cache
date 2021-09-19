@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcqRypmxjbzvxjiEtEzajCqIOZCKxQSlB3M/S8IvutJ1HRKpkhOu7/9stxSPRKvY5qpZGOuMMItxBtSZ++AjFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pn_pg\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
