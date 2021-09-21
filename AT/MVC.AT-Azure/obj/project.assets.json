@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
+      "projectUniqueName": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
       "projectName": "MVC.AT-Azure",
-      "projectPath": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
+      "projectPath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
       "packagesPath": "C:\\Users\\pn_pg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\MVC.AT-Azure\\obj\\",
+      "outputPath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\MVC.AT-Azure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

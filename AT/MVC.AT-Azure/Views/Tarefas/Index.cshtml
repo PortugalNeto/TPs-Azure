@@ -1,1 +1,29 @@
-﻿
+﻿@{
+    List<Tarefa> tarefas = ViewBag.ListTarefas;
+}
+
+<h2>Lista de tarefas</h2>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nome Tarefa</th>
+            <th scope="col">Descrição</th>
+            <th scope="col">Status</th>
+            <th scope="col">Para quem:</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tarefa in tarefas)
+        {
+            <tr>
+                <th scope="row">@tarefa.Id</th>
+                <td>@tarefa.NomeTarefa</td>
+                <td>@tarefa.Descricao</td>
+                <td>@tarefa.Status</td>
+                <td>@tarefa.Quem</td>
+            </tr>
+        }
+    </tbody>
+</table>

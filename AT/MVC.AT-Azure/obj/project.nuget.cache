@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WcqRypmxjbzvxjiEtEzajCqIOZCKxQSlB3M/S8IvutJ1HRKpkhOu7/9stxSPRKvY5qpZGOuMMItxBtSZ++AjFQ==",
+  "dgSpecHash": "JVdIU0Vz+RtNVXEirJSd+/Nz3dBw5uVD1xEW4M47Y0ElIInc/b5DT5L/+3cPHe8qsuN39Lvn1o2nsM0ZTtqRMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
+  "projectFilePath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\MVC.AT-Azure\\MVC.AT-Azure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pn_pg\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
   ],

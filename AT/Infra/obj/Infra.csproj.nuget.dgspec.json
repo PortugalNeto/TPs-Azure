@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\Infra\\Infra.csproj": {}
+    "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\Infra\\Infra.csproj": {
+    "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\Infra\\Infra.csproj",
+        "projectUniqueName": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\Infra\\Infra.csproj",
+        "projectPath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\pn_pg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pn_pg\\source\\repos\\MVC.AT-Azure\\Infra\\obj\\",
+        "outputPath": "D:\\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\\Documentos\\GitHub\\TPs-Azure\\AT\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
