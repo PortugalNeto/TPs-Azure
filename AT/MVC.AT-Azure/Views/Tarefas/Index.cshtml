@@ -4,7 +4,7 @@
 
 <h2>Lista de tarefas</h2>
 
-<table class="table">
+<table class="table text-center">
     <thead class="thead-dark">
         <tr>
             <th scope="col">Id</th>
@@ -12,6 +12,7 @@
             <th scope="col">Descrição</th>
             <th scope="col">Status</th>
             <th scope="col">Para quem:</th>
+            <th scope="col">Ações</th>
         </tr>
     </thead>
     <tbody>
@@ -23,6 +24,10 @@
                 <td>@tarefa.Descricao</td>
                 <td>@tarefa.Status</td>
                 <td>@tarefa.Quem</td>
+                <td><a style="color: darkblue" href="/tarefas/editar?id=@tarefa.Id">Editar</a> -
+                    <a href="/tarefas/detalhes?id=@tarefa.Id">Detalhes</a> -
+                    <a style="color: red" href="/tarefas/excluir?id=@tarefa.Id">Excluir</a> 
+                </td>
             </tr>
         }
     </tbody>

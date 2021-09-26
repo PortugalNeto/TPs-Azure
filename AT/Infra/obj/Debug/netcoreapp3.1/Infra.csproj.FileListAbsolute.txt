@@ -9,3 +9,14 @@ C:\Users\pn_pg\source\repos\MVC.AT-Azure\Infra\obj\Debug\netcoreapp3.1\Infra.csp
 C:\Users\pn_pg\source\repos\MVC.AT-Azure\Infra\obj\Debug\netcoreapp3.1\Infra.dll
 C:\Users\pn_pg\source\repos\MVC.AT-Azure\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
 C:\Users\pn_pg\source\repos\MVC.AT-Azure\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.AssemblyReference.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.AssemblyReference.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\TPs-Azure\AT\Infra\obj\Debug\netcoreapp3.1\Infra.pdb

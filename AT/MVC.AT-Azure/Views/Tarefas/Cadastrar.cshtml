@@ -1,12 +1,20 @@
 ﻿<form action="/tarefas/cadastrar" method="post">
     <div class="form-group">
-        <label for="Nome">Nome da Tarefa</label>
-        <input type="text" name="nome" class="form-control" id="Nome" aria-describedby="emailHelp" placeholder="Nome da Tarefa">
+        <label for="nome">Nome da Tarefa</label>
+        <input type="text" name="NomeTarefa" class="form-control" id="Nome" aria-describedby="nome" placeholder="Nome da Tarefa" required>
     </div>
     <div class="form-group">
-        <label for="descricao">Password</label>
-        <input type="text" class="form-control" id="descricao" placeholder="Descrição da Tarefa">
+        <label for="descricao">Descrição Tarefa</label>
+        <input type="text" name="Descricao" class="form-control" id="descricao" placeholder="Descrição da Tarefa" required>
     </div>
-
-    <button type="submit" class="btn btn-success">Submit</button>
+    <div class="form-group">
+        <label for="status">Status</label>
+        <input type="text" name="status" class="form-control" id="status" placeholder="Status da Tarefa" required>
+    </div>
+    <div class="form-group">
+        <label for="responsavel">Responsável pela Realização</label>
+        <input type="text" name="Quem" class="form-control" id="responsavel" placeholder="Responsável pela Tarefa" required>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
 </form>

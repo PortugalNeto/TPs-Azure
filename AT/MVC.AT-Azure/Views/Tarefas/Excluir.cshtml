@@ -1,0 +1,60 @@
+﻿@{
+    Tarefa result = ViewBag.Tarefa;
+    ViewData["Title"] = "Excluir";
+}
+
+<h1 class="text-center">Excluir</h1>
+<form action="/tarefas/ConfirmaExclusao?id=@result.Id" method="post">
+    <div>
+        <h4>Tarefa</h4>
+        <hr />
+
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => result.Id)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => result.Id)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => result.ToDo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => result.ToDo)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => result.NomeTarefa)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => result.NomeTarefa)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => result.Descricao)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => result.Descricao)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => result.Status)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => result.Status)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => result.Quem)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => result.Quem)
+            </dd>
+        </dl>
+    </div>
+
+
+    <button class="btn-primary" type="submit">
+        Confirmar Exclusão
+    </button>
+</form>
+
+<div>
+    <a href="/tarefas/Index">Voltar à Lista</a>
+</div>

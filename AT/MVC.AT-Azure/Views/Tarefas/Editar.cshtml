@@ -1,0 +1,28 @@
+﻿@{
+    Tarefa tarefa = ViewBag.Tarefa;
+    ViewData["Title"] = "Editar";
+}
+
+<form action="/tarefas/editar" method="post">
+    <div hidden>
+        <input type="text" name="Id" class="form-control" id="id" aria-describedby="id" value="@tarefa.Id">
+    </div> 
+    <div class="form-group">
+        <label for="nome">Nome da Tarefa</label>
+        <input type="text" name="NomeTarefa" class="form-control" id="Nome" aria-describedby="nome" value="@tarefa.NomeTarefa">
+    </div>
+    <div class="form-group">
+        <label for="descricao">Descrição Tarefa</label>
+        <input type="text" name="Descricao" class="form-control" id="descricao" value="@tarefa.Descricao">
+    </div>
+    <div class="form-group">
+        <label for="status">Status</label>
+        <input type="text" name="status" class="form-control" id="status" value="@tarefa.Status">
+    </div>
+    <div class="form-group">
+        <label for="responsavel">Responsável pela Realização</label>
+        <input type="text" name="quem" class="form-control" id="responsavel" value="@tarefa.Quem">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Salvar alterações</button>
+</form>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MVC-AT-Azure" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\OneDrive\ -\ RADIX\ ENGENHARIA\ E\ DESENVOLVIMENTO\ DE\ SOFTWARE\ S\ A\ \(ISV\)\\Documentos\\GitHub\\TPs-Azure\\AT\\MVC\.AT-Azure\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
